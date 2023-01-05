@@ -31,10 +31,18 @@ followed by a new line
 You are not allowed to use any loops or conditional statement
 Your program should be maximum 5 lines long
 
+
 You can find the source code here
 The output of the program should be:
 Float:, followed by the float with only 2 digits
 followed by a new line
 You are not allowed to cast number to string
 You have to use f-strings
+
+task 6 : Complete this source code to print Welcome to Holberton School!
+
+You can find the source code here
+You are not allowed to use any loops or conditional statements.
+You have to use the variables str1 and str2 in your new line of code
+Your program should be exactly 5 lines long
 
