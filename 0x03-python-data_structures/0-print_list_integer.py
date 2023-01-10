@@ -2,3 +2,11 @@
 def print_list_integer(my_list=[]):
     for i in my_list:
         print("{:d}".format(i))
+
+
+def main():
+	print_list_integer([1, 2, 3, 4, 5])
+
+
+main()
+
