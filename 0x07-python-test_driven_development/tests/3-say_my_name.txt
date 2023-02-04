@@ -60,4 +60,4 @@ My name is
 
 Multiple leading and trailing spaces
 >>> say_my_name(" ? ",)
-My name is  ?
+My name is  ?  
