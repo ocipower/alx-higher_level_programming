@@ -101,3 +101,4 @@ Test for nan in matrix
 >>> matrix_divided([[float('nan'), 2], [2, 2]], 2)
 Traceback (most recent call last):
 TypeError: matrix must be a matrix (list of lists) of integers/floats
+list of lists) of integers/floats
